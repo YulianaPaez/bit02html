@@ -1,7 +1,7 @@
 # bit02html
 # Tituto
-Segundo Repositorio realizado HTML 
+Pasta campesina Colombiana 
 ## Descripccion
-Este es el segundo repositorio realizado, enfocado en HTML.
+Encontraras una deliciosa receta de pasta
 ## Autor
 [Yuliana Paez](https://www.linkedin.com/in/yuliana-garavito-paez-a84a5814a/)
